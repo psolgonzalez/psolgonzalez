@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Pamela</h1>
-<h3 align="center">Estudiabte de programación.. camino a mi sueño.</h3>
+<h3 align="center">Estudiante de programación.. camino a mi sueño.</h3>
 
 - 📫 Como llegar a mi **pamelasoledadg@hotmail.com**
 
