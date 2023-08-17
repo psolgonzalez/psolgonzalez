@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de programación.. camino a mi sueño.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">-   **pamelasoledadg@hotmail.com**
+<p align="left">-   pamelasoledadg@hotmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
