@@ -1,10 +1,8 @@
 <h1 align="center">Hola 👋, Mi nombre es Pamela</h1>
 <h3 align="center">Estudiante de programación.. camino a mi sueño.</h3>
 
-- 📫 Como llegar a mi **pamelasoledadg@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">-   **pamelasoledadg@hotmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
