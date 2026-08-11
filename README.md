@@ -7,7 +7,7 @@
 <h2>🚀 Sobre mí</h2>
 
 <h3>
-Siempre me interesó la tecnología y a medida que voy avanzando en la carrera, descubrí que la programación es un área en la que quiero seguir creciendo.
+Siempre me interesó la tecnología y a medida que voy avanzando en la carrera, descubrí que la programación es un área en la que quiero seguir creciendo.<br><br>
 
 Me gusta aprender cosas nuevas, enfrentar problemas y buscar la manera de resolverlos. Actualmente estoy enfocada en seguir desarrollando mis conocimientos y adquiriendo experiencia para poder crecer profesionalmente en el área IT.
 
