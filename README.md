@@ -1,39 +1,33 @@
-<h1 align="center">Hola 👋, Mi nombre es Pamela</h1>
+# Hola 👋, Mi nombre es Pamela
 
-<h3 align="center">Soy estudiante de Tecnicatura Universitaria en Programación en la Universidad Nacional de Hurlingham (UNAHUR)... camino a mi sueño.</h3>
+### Soy estudiante de Tecnicatura Universitaria en Programación en la Universidad Nacional de Hurlingham (UNAHUR)... camino a mi sueño.
 
-<h2>🚀 Sobre mí</h2>
+## 🚀 Sobre mí
 
-<h3>
 Siempre me interesó la tecnología y a medida que voy avanzando en la carrera, descubrí que la programación es un área en la que quiero seguir creciendo.
-<br><br>
+
 Me gusta aprender cosas nuevas, enfrentar problemas y buscar la manera de resolverlos. Actualmente estoy enfocada en seguir desarrollando mis conocimientos y adquiriendo experiencia para poder crecer profesionalmente en el área IT.
-<br><br>
+
 Uno de mis objetivos es poder trabajar en el área de programación y continuar aprendiendo nuevas tecnologías y herramientas.
-</h3>
 
-<h2>🎓 Formación</h2>
+## 🎓 Formación
 
-<h3>
-Actualmente estoy cursando el segundo año de la <strong>Tecnicatura Universitaria en Programación</strong> en la Universidad Nacional de Hurlingham (UNAHUR), aprendiendo y fortaleciendo mis conocimientos en programación y desarrollo de software.
-<br><br>
-En 2024 realicé un curso de <strong>Diplomatura en Programación Web – Full Stack Front End Developer</strong> en la UTN Virtual, donde comencé a profundizar mis conocimientos en desarrollo web.
-</h3>
+Actualmente estoy cursando el segundo año de la **Tecnicatura Universitaria en Programación** en la Universidad Nacional de Hurlingham (UNAHUR), aprendiendo y fortaleciendo mis conocimientos en programación y desarrollo de software.
 
-<h2>❤️ Mis intereses</h2>
+En 2024 realicé un curso de **Diplomatura en Programación Web – Full Stack Front End Developer** en la UTN Virtual, donde comencé a profundizar mis conocimientos en desarrollo web.
 
-<h3>
+## ❤️ Mis intereses
+
 Además de la programación, me interesan la tecnología, la informática, el diseño y aprender cosas nuevas.
-<br><br>
+
 Me gusta mucho investigar, buscar información y aprender sobre temas que despiertan mi curiosidad. Disfruto descubrir cosas nuevas y profundizar en aquello que me interesa.
-<br><br>
+
 También disfruto de la cocina casera y el patinaje artístico.
-</h3> 
-<br><br>
 
- *📫 Cómo contactarme: **[pamelasgia@gmail.com](mailto:pamelasgia@gmail.com)**  
 
-<h3 align="left">💻 Tecnologías con las que he trabajado durante mis formaciones:</h3>
+📫 Cómo contactarme: **[pamelasgia@gmail.com](mailto:pamelasgia@gmail.com)**
+
+### 💻 Tecnologías con las que he trabajado durante mis formaciones:
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
